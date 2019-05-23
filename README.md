@@ -3,8 +3,8 @@ Implements MongoDB
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab05-bitmap-transformer/pull/2)
-* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab05-bitmap-transformer)
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab08-mongo/pull/1)
+* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab08-mongo)
 
 ### Modules
 #### `app.js`
